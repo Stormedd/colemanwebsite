@@ -8,6 +8,5 @@
  - Agreed upon price: $500 (half upfront / half when done)
  - Discuss Maintenence Contract ($50 per month)
  - Discuss Training ($50 per hour)
- 
- [x] hello
- [ x] goodbye
+[x] hello
+[x] goodbye
