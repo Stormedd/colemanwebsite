@@ -10,4 +10,4 @@
  - Discuss Training ($50 per hour)
  
  [x] hello
- [ ] goodbye
+ [ x] goodbye
